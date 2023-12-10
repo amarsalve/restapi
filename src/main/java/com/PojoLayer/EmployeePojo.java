@@ -5,6 +5,7 @@ public class EmployeePojo {
 		System.out.println("Amar");
 		System.out.println("Vasant");
 		System.out.println("Salve");
+		System.out.println("Salve2");
 	}
 
 }
